@@ -1,0 +1,1 @@
+This is a project that will put together a few of the things that I've learned since starting the Odin Project. It will be mainly beneficial in testing my syntax, structure, and general knowlege of HTML. It's also going to be a good way for me to learn/practice making commits, accessing repositories remotely, and figure out the workflow that comes with coding
